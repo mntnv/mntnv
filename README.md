@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Volodymyr</h1>
+<h1 align="center">Hello, I'm Volodymyr! 👋</h1>
 <h3 align="center">An experienced and dedicated full stack engineer from Ukraine.</h3>
 
 - 📫 How to reach me **mntnv.work@gmail.com**
